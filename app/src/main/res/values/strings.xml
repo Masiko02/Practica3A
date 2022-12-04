@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica3A</string>
+    <string name="myButton">Botón</string>
+    <string name="yourTextHere">numero</string>
+    <string name="introduzca_numero">numero</string>
+    <string name="texto">Introduzca el texto</string>
+</resources>
